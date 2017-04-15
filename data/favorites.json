@@ -1,0 +1,46 @@
+{
+  "favorites": [
+    {
+        "type": "food",
+        "item": "Chipotle Chicken Bowl",
+        "image": "images/chicken_bowl.jpg",
+        "text": "White rice, black beans, tomato and corn salsas, toss on some cheese and enjoy."
+        },
+    {
+        "type": "food",
+        "item": "White Chocolate Macadamia Nut Cookies from Costco",
+        "image": "images/costco_cookies.jpg",
+        "text": "What can I say? I could eat the whole bunch of em. They are the first to run out at my house."
+        },
+      {
+        "type": "beverage",
+        "item": "Gingerbeer",
+        "image": "images/gingerbeer.jpg",
+        "text": "Reeds is my favorite store bought brand, but brewing my own is simple and delicious."
+      },
+    {
+      "type": "activity",
+      "item": "Family Vacations",
+      "image": "images/family_horseback.jpg",
+      "text": "Spending quality time with the kids and experiencing new things. These are what make a vacation awesome."
+      },
+    {
+      "type": "activity",
+      "item": "Cruising",
+      "image": "images/cruiseship.jpg",
+      "text": "A floating hotel that takes you to several fun exotic locales. With almost everything included crusing is a great value."
+      },
+    {
+      "type": "entertainment",
+      "item": "Jigsaw puzzles",
+      "image": "images/puzzles.jpg",
+      "text": "The 3000 piece ocean scene Ravensburger is a fun one to do."
+      },
+    {
+      "type": "entertainment",
+      "item": "Building Lego things",
+      "image": "images/legos.jpg",
+      "text": "My way to unwind and relax. Like a 3D puzzle. I have a large bin of them."
+      }
+  ]
+}
